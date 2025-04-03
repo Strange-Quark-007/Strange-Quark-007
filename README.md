@@ -42,7 +42,13 @@
 
 [**🤖 Oracle Bot**](https://github.com/Strange-Quark-007/Oracle-Bot)
 
-- A custom Discord bot that translates messages via flag reactions and sends notification for an event reminder every alternate day (designed for a friend).
+- A custom-built Discord bot designed for a friend, offering custom event reminders, real-time translations via flag reactions, and now showcasing translation stats.
+
+<div align="center" style="display: flex;">
+
+![Bot Stats](http://129.154.238.15:3000/api/stats)
+
+</div>
 
 [**📋 Text Share**](https://github.com/Strange-Quark-007/Text-Share)
 
@@ -82,4 +88,4 @@
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=Strange-Quark-007&icon=0&color=9)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Strange-Quark-007&color=blueviolet)
