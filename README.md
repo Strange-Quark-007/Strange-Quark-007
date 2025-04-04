@@ -58,6 +58,12 @@
 
 - A go-to platform for discovering and sharing AI prompts, perfect for enhancing conversations with AI chatbots like chatGPT, etc.
 
+[**💡 Variable Copper Bulb Signal**](https://github.com/Strange-Quark-007/variable-copper-bulb-signal)
+
+- A Minecraft Fabric mod that changes the comparator output of copper bulbs based on their oxidation level, matching the light level and redstone signal strength.
+
+  [![Mod Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2FlhSidgPA&query=downloads&style=for-the-badge&logo=modrinth&label=Downloads&labelColor=002244&color=164A7C)](https://modrinth.com/mod/variable-copper-bulb-signal)
+
 <br/>
 
 ## 📫 Connect with Me
@@ -85,7 +91,5 @@
 </div>
 
 ---
-
-<br/>
 
 ![](https://komarev.com/ghpvc/?username=Strange-Quark-007&color=blueviolet)
