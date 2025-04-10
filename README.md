@@ -32,9 +32,13 @@
 
 ## 🚀 Projects
 
-[**🎲 Ludo Multiplayer**](https://github.com/Strange-Quark-007/nextjs-redux-ludo)
+[**🎲 Ludo Multiplayer**](https://github.com/Strange-Quark-007/nextjs-redux-ludo) ▪ [**🔗 Live**](https://nextjs-redux-ludo-strange-quark-projects.vercel.app/)
 
-- Immerse yourself in this digital rendition of classic board game - LUDO. Roll the dice, strategize your moves, and race against opponents. Explore it [**Live**](https://nextjs-redux-ludo-strange-quark-projects.vercel.app/)
+- Immerse yourself in this digital rendition of classic board game - LUDO. Roll the dice, strategize your moves, and race against opponents.
+
+[**🪂 Hot Drop**](https://github.com/Strange-Quark-007/Hot-Drop)
+
+- A lightweight web app for real-time text and file sharing across devices on your home network. Built for speed, simplicity, and seamless sync.
 
 [**📥 Minecraft Mod Sync**](https://github.com/Strange-Quark-007/MinecraftModSync)
 
@@ -50,19 +54,15 @@
 
 </div>
 
-[**📋 Text Share**](https://github.com/Strange-Quark-007/Text-Share)
-
-- A simple web app using socket.&#8203;io for real-time text sharing, designed for personal use on a home network to effortlessly share text across devices.
-
-[**✏️ Promptly**](https://github.com/Strange-Quark-007/promptly)
-
-- A go-to platform for discovering and sharing AI prompts, perfect for enhancing conversations with AI chatbots like chatGPT, etc.
-
 [**💡 Variable Copper Bulb Signal**](https://github.com/Strange-Quark-007/variable-copper-bulb-signal)
 
 - A Minecraft Fabric mod that changes the comparator output of copper bulbs based on their oxidation level, matching the light level and redstone signal strength.
 
   [![Mod Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2FlhSidgPA&query=downloads&style=for-the-badge&logo=modrinth&label=Downloads&labelColor=002244&color=164A7C)](https://modrinth.com/mod/variable-copper-bulb-signal)
+
+[**✏️ Promptly**](https://github.com/Strange-Quark-007/promptly)
+
+- A go-to platform for discovering and sharing AI prompts, perfect for enhancing conversations with AI chatbots like chatGPT, etc.
 
 <br/>
 
