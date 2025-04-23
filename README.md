@@ -40,6 +40,8 @@
 
 - A lightweight web app for real-time text and file sharing across devices on your home network. Built for speed, simplicity, and seamless sync.
 
+  <a href="https://www.producthunt.com/posts/hot-drop?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-hot&#0045;drop" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=955700&theme=neutral&t=1745390605195" alt="Hot&#0032;Drop - Effortless&#0032;file&#0032;and&#0032;text&#0032;transfers&#0032;across&#0032;your&#0032;home&#0032;network&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 [**📥 Minecraft Mod Sync**](https://github.com/Strange-Quark-007/MinecraftModSync)
 
 - This command-line tool makes it super easy to download the latest minecraft mods from Modrinth. Just specify the fields in the JSON configuration and you are ready to roll!
