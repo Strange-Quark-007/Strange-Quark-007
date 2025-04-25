@@ -46,6 +46,8 @@
 
 - This command-line tool makes it super easy to download the latest minecraft mods from Modrinth. Just specify the fields in the JSON configuration and you are ready to roll!
 
+  <a href="https://www.producthunt.com/posts/minecraft-mod-sync?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-minecraft&#0045;mod&#0045;sync" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=956802&theme=neutral&t=1745567783246" alt="Minecraft&#0032;Mod&#0032;Sync - Easily&#0032;download&#0032;the&#0032;latest&#0032;mods&#0032;from&#0032;Modrinth&#0032;for&#0032;Minecraft&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 [**🤖 Oracle Bot**](https://github.com/Strange-Quark-007/Oracle-Bot)
 
 - A custom-built Discord bot designed for a friend, offering custom event reminders, real-time translations via flag reactions, and now showcasing translation stats.
