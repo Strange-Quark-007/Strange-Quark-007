@@ -1,0 +1,16 @@
+name: Purge Cache
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  purge-camo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: kevincobain2000/action-camo-purge@v1
