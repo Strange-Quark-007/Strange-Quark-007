@@ -58,15 +58,29 @@
 
 </div>
 
-[**💡 Variable Copper Bulb Signal**](https://github.com/Strange-Quark-007/variable-copper-bulb-signal)
+[**💡 Minecraft Mod: Variable Copper Bulb Signal**](https://github.com/Strange-Quark-007/variable-copper-bulb-signal)
 
-- A Minecraft Fabric mod that changes the comparator output of copper bulbs based on their oxidation level, matching the light level and redstone signal strength.
+- A Minecraft mod that changes the comparator output of copper bulbs based on their oxidation level, matching the light level and redstone signal strength.
 
   [![Mod Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2FlhSidgPA&query=downloads&style=for-the-badge&logo=modrinth&label=Downloads&labelColor=002244&color=164A7C)](https://modrinth.com/mod/variable-copper-bulb-signal)
+
+[**💡 Minecraft Mod: Revert Zombie Reinforcement**](https://github.com/Strange-Quark-007/revert-zombie-reinforcement)
+
+- A Minecraft mod that restores the pre-1.21.2 behavior where zombie reinforcements always spawn as zombies instead of subtypes like drowned or husks.
+
+  [![Mod Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2FzUBCNMSA&query=downloads&style=for-the-badge&logo=modrinth&label=Downloads&labelColor=002244&color=164A7C)](https://modrinth.com/mod/variable-copper-bulb-signal)
 
 [**✏️ Promptly**](https://github.com/Strange-Quark-007/promptly)
 
 - A go-to platform for discovering and sharing AI prompts, perfect for enhancing conversations with AI chatbots like chatGPT, etc.
+
+<br/>
+
+## 📖 Blogs
+
+💥 [**How Updating Minecraft Almost Nuked My Cloud VM**](https://medium.com/@strangequark007/how-updating-minecraft-almost-ended-up-nuking-my-cloud-vm-b5b31aa94fef)
+
+- What started as a simple Minecraft update nearly locked me out of my Oracle VM. Read the full story.
 
 <br/>
 
