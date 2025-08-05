@@ -68,7 +68,7 @@
 
 - A Minecraft mod that restores the pre-1.21.2 behavior where zombie reinforcements always spawn as zombies instead of subtypes like drowned or husks.
 
-  [![Mod Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2FzUBCNMSA&query=downloads&style=for-the-badge&logo=modrinth&label=Downloads&labelColor=002244&color=164A7C)](https://modrinth.com/mod/variable-copper-bulb-signal)
+  [![Mod Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2FzUBCNMSA&query=downloads&style=for-the-badge&logo=modrinth&label=Downloads&labelColor=002244&color=164A7C)](https://modrinth.com/mod/revert-zombie-reinforcement)
 
 [**✏️ Promptly**](https://github.com/Strange-Quark-007/promptly)
 
