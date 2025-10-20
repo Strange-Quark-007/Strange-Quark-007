@@ -32,6 +32,12 @@
 
 ## 🚀 Projects
 
+[**🛠️ Swiss Tools**](https://swiss-tools.vercel.app)
+
+- A modular, privacy-first developer toolbox that provides developers with a curated set of fast, reliable utilities for conversions, encoding, hashing, and more — all in one unified platform.
+
+  <a href="https://www.producthunt.com/products/swiss-tools?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-swiss&#0045;tools" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1028885&theme=neutral&t=1760987361103" alt="Swiss&#0032;Tools - Essential&#0032;dev&#0032;utilities&#0032;—&#0032;fast&#0044;&#0032;reliable&#0044;&#0032;and&#0032;focused | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 [**🎲 Ludo Multiplayer**](https://github.com/Strange-Quark-007/nextjs-redux-ludo) ▪ [**🔗 Live**](https://nextjs-redux-ludo-strange-quark-projects.vercel.app/)
 
 - Immerse yourself in this digital rendition of classic board game - LUDO. Roll the dice, strategize your moves, and race against opponents.
