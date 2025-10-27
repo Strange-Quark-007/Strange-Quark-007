@@ -11,17 +11,17 @@
 - HTML, CSS, JS / TS
 - React
 - Next.js
-- React-Redux
-- RTK-Query
+- React-Redux, Zustand
+- RTK-Query, TanStack-Query
 
 ### Backend
 
 - Node.js
 - Express
 - Socket.&#8203;io
+- Strapi (Headless CMS)
 - Java
 - SpringBoot
-- Strapi (Headless CMS)
 
 ### Databases
 
@@ -32,7 +32,7 @@
 
 ## 🚀 Projects
 
-[**🛠️ Swiss Tools**](https://swiss-tools.vercel.app)
+[**🛠️ Swiss Tools**](https://github.com/Strange-Quark-007/Swiss-Tools) ▪ [**🔗 Live**](https://swiss-tools.vercel.app)
 
 - A modular, privacy-first developer toolbox that provides developers with a curated set of fast, reliable utilities for conversions, encoding, hashing, and more — all in one unified platform.
 
