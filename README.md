@@ -4,32 +4,6 @@
 
 <br/>
 
-## 🔧 Technologies & Tools
-
-### Frontend
-
-- HTML, CSS, JS / TS
-- React
-- Next.js
-- React-Redux, Zustand
-- RTK-Query, TanStack-Query
-
-### Backend
-
-- Node.js
-- Express
-- Socket.&#8203;io
-- Strapi (Headless CMS)
-- Java
-- SpringBoot
-
-### Databases
-
-- MongoDB
-- mySQL / postgreSQL
-
-<br/>
-
 ## 🚀 Projects
 
 [**🛠️ Swiss Tools**](https://github.com/Strange-Quark-007/Swiss-Tools) ▪ [**🔗 Live**](https://swiss-tools.vercel.app)
@@ -87,6 +61,32 @@
 💥 [**How Updating Minecraft Almost Nuked My Cloud VM**](https://medium.com/@strangequark007/how-updating-minecraft-almost-ended-up-nuking-my-cloud-vm-b5b31aa94fef)
 
 - What started as a simple Minecraft update nearly locked me out of my Oracle VM. Read the full story.
+
+<br/>
+
+## 🔧 Technologies & Tools
+
+### Frontend
+
+- HTML, CSS, JS / TS
+- React
+- Next.js
+- React-Redux, Zustand
+- RTK-Query, TanStack-Query
+
+### Backend
+
+- Node.js
+- Express
+- Socket.&#8203;io
+- Strapi (Headless CMS)
+- Java
+- SpringBoot
+
+### Databases
+
+- MongoDB
+- mySQL / postgreSQL
 
 <br/>
 
