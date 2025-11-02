@@ -50,6 +50,12 @@
 
   [![Mod Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2FzUBCNMSA&query=downloads&style=for-the-badge&logo=modrinth&label=Downloads&labelColor=002244&color=164A7C)](https://modrinth.com/mod/revert-zombie-reinforcement)
 
+[**💡 Minecraft Mod: Analog Redstone Lamp**](https://modrinth.com/mod/analog-redstone-lamp)
+
+- A Minecraft mod that makes redstone lamps emit light levels matching the input signal strength
+
+  [![Mod Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2F4gvjX4E3&query=downloads&style=for-the-badge&logo=modrinth&label=Downloads&labelColor=002244&color=164A7C)](https://modrinth.com/mod/analog-redstone-lamp)
+
 [**✏️ Promptly**](https://github.com/Strange-Quark-007/promptly)
 
 - A go-to platform for discovering and sharing AI prompts, perfect for enhancing conversations with AI chatbots like chatGPT, etc.
