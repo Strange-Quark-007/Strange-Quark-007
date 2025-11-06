@@ -1,64 +1,65 @@
-### 👋 Hello, I'm Yasin, venturing into the web development universe with a touch of quirkiness.
+# 👋 Hi, I'm Yasin | Full-Stack Developer
 
-### 🌌 In the coding cosmos, I embrace the name 'Strange Quark' – a nod to my B.Tech in Physics journey!
+I specialize in **frontend development** with **React & Next.js** and have experience in backend technologies.  
+I build **practical tools** that **solve real problems**, like **Swiss Tools**, **Hot Drop**, **Minecraft Mod Sync**, and **Immich Downloader**.  
+I go by "**Strange Quark**", a pseudonym inspired by my **B.Tech in Physics**.  
+I’m also an occasional **Minecraft modding enthusiast**.
 
 <br/>
 
 ## 🚀 Projects
 
-[**🛠️ Swiss Tools**](https://github.com/Strange-Quark-007/Swiss-Tools) ▪ [**🔗 Live**](https://swiss-tools.vercel.app)
+[**Swiss Tools**](https://github.com/Strange-Quark-007/Swiss-Tools) ▪ [**🔗 Live**](https://swiss-tools.vercel.app)
 
-- A modular, privacy-first developer toolbox that provides developers with a curated set of fast, reliable utilities for conversions, encoding, hashing, and more — all in one unified platform.
+- A modular, privacy-first developer toolbox providing curated, fast, and reliable utilities for conversions, encoding, hashing, and more - all in one unified platform.
 
-  <a href="https://www.producthunt.com/products/swiss-tools?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-swiss&#0045;tools" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1028885&theme=neutral&t=1760987361103" alt="Swiss&#0032;Tools - Essential&#0032;dev&#0032;utilities&#0032;—&#0032;fast&#0044;&#0032;reliable&#0044;&#0032;and&#0032;focused | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+[**Immich Downloader**](https://github.com/Strange-Quark-007/immich-downloader)
 
-[**🎲 Ludo Multiplayer**](https://github.com/Strange-Quark-007/nextjs-redux-ludo) ▪ [**🔗 Live**](https://nextjs-redux-ludo-strange-quark-projects.vercel.app/)
+- Minimal Node.js script to download Immich albums directly via API, bypassing the browser’s in-memory ZIP limitation.
 
-- Immerse yourself in this digital rendition of classic board game - LUDO. Roll the dice, strategize your moves, and race against opponents.
+[**Hot Drop**](https://github.com/Strange-Quark-007/Hot-Drop)
 
-[**🪂 Hot Drop**](https://github.com/Strange-Quark-007/Hot-Drop)
-
-- A lightweight web app for real-time text and file sharing across devices on your home network. Built for speed, simplicity, and seamless sync.
-
-  <a href="https://www.producthunt.com/posts/hot-drop?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-hot&#0045;drop" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=955700&theme=neutral&t=1745390605195" alt="Hot&#0032;Drop - Effortless&#0032;file&#0032;and&#0032;text&#0032;transfers&#0032;across&#0032;your&#0032;home&#0032;network&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+- Lightweight web app for real-time text and file sharing across devices on a home network. Built for speed and seamless sync.
 
 [**📥 Minecraft Mod Sync**](https://github.com/Strange-Quark-007/MinecraftModSync)
 
-- This command-line tool makes it super easy to download the latest minecraft mods from Modrinth. Just specify the fields in the JSON configuration and you are ready to roll!
+- Command-line tool to easily fetch the latest Minecraft mods from Modrinth via a JSON configuration.
 
-  <a href="https://www.producthunt.com/posts/minecraft-mod-sync?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-minecraft&#0045;mod&#0045;sync" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=956802&theme=neutral&t=1745567783246" alt="Minecraft&#0032;Mod&#0032;Sync - Easily&#0032;download&#0032;the&#0032;latest&#0032;mods&#0032;from&#0032;Modrinth&#0032;for&#0032;Minecraft&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+[**Ludo Multiplayer**](https://github.com/Strange-Quark-007/nextjs-redux-ludo) ▪ [**🔗 Live**](https://nextjs-redux-ludo-strange-quark-projects.vercel.app/)
 
-[**🤖 Oracle Bot**](https://github.com/Strange-Quark-007/Oracle-Bot)
+- A full-stack implementation of classic Ludo using Next.js/Redux - roll the dice, strategize moves, and race against opponents. Supports multiplayer.
 
-- A custom-built Discord bot designed for a friend, offering custom event reminders, real-time translations via flag reactions, and now showcasing translation stats.
+[**Oracle Bot**](https://github.com/Strange-Quark-007/Oracle-Bot)
 
-<div align="center" style="display: flex;">
+- Custom Discord bot offering custom event reminders, real-time translations via flag reactions, and live stats.
 
-![Bot Stats](http://129.154.238.15:3000/api/stats)
+  <div align="center" style="display: flex;">
 
-</div>
+  ![Bot Stats](http://129.154.238.15:3000/api/stats)
 
-[**💡 Minecraft Mod: Variable Copper Bulb Signal**](https://github.com/Strange-Quark-007/variable-copper-bulb-signal)
+  </div>
 
-- A Minecraft mod that changes the comparator output of copper bulbs based on their oxidation level, matching the light level and redstone signal strength.
+<br/>
+
+## Minecraft Mods
+
+[**Variable Copper Bulb Signal**](https://github.com/Strange-Quark-007/variable-copper-bulb-signal)
+
+- Changes the comparator output of copper bulbs based on oxidation level, matching light level and redstone signal.
 
   [![Mod Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2FlhSidgPA&query=downloads&style=for-the-badge&logo=modrinth&label=Downloads&labelColor=002244&color=164A7C)](https://modrinth.com/mod/variable-copper-bulb-signal)
 
-[**💡 Minecraft Mod: Revert Zombie Reinforcement**](https://github.com/Strange-Quark-007/revert-zombie-reinforcement)
+[**Revert Zombie Reinforcement**](https://github.com/Strange-Quark-007/revert-zombie-reinforcement)
 
-- A Minecraft mod that restores the pre-1.21.2 behavior where zombie reinforcements always spawn as zombies instead of subtypes like drowned or husks.
+- Restores pre-1.21.2 behaviour: zombie reinforcements always spawn as zombies, not subtypes like drowned or husks.
 
   [![Mod Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2FzUBCNMSA&query=downloads&style=for-the-badge&logo=modrinth&label=Downloads&labelColor=002244&color=164A7C)](https://modrinth.com/mod/revert-zombie-reinforcement)
 
-[**💡 Minecraft Mod: Analog Redstone Lamp**](https://modrinth.com/mod/analog-redstone-lamp)
+[**Analog Redstone Lamp**](https://modrinth.com/mod/analog-redstone-lamp)
 
-- A Minecraft mod that makes redstone lamps emit light levels matching the input signal strength
+- Makes redstone lamps emit light levels matching the input signal strength.
 
   [![Mod Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2F4gvjX4E3&query=downloads&style=for-the-badge&logo=modrinth&label=Downloads&labelColor=002244&color=164A7C)](https://modrinth.com/mod/analog-redstone-lamp)
-
-[**✏️ Promptly**](https://github.com/Strange-Quark-007/promptly)
-
-- A go-to platform for discovering and sharing AI prompts, perfect for enhancing conversations with AI chatbots like chatGPT, etc.
 
 <br/>
 
@@ -69,8 +70,10 @@
 - What started as a simple Minecraft update nearly locked me out of my Oracle VM. Read the full story.
 
 <br/>
+<hr/>
 
-## 🔧 Technologies & Tools
+<details>
+<summary><strong>🔧 Tools & Technologies </strong></summary>
 
 ### Frontend
 
@@ -92,19 +95,14 @@
 ### Databases
 
 - MongoDB
-- mySQL / postgreSQL
+- MySQL / PostgreSQL
+
+</details>
 
 <br/>
 
-## 📫 Connect with Me
-
-- LinkedIn: [@yasinbhimani25](https://www.linkedin.com/in/yasinbhimani25/)
-- Instagram: [@yasinbhimani25](https://www.instagram.com/yasinbhimani25/)
-- Twitter: [@MasterYasin007](https://twitter.com/MasterYasin007)
-
-<br/>
-
-## 🤓 Stats for Nerds
+<details>
+<summary><b>📊 Stats for Nerds</b></summary>
 
 <br/>
 
@@ -119,6 +117,7 @@
 ![Strange-Quark-007's Top Contributions](https://github-contributor-stats.vercel.app/api?username=Strange-Quark-007&limit=7&theme=ayu-mirage&combine_all_yearly_contributions=true)
 
 </div>
+</details>
 
 ---
 
