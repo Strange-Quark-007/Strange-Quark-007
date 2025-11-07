@@ -25,9 +25,13 @@ I’m also an occasional **Minecraft modding enthusiast**.
 
 - Command-line tool to easily fetch the latest Minecraft mods from Modrinth via a JSON configuration.
 
-[**Ludo Multiplayer**](https://github.com/Strange-Quark-007/nextjs-redux-ludo) ▪ [**🔗 Live**](https://nextjs-redux-ludo-strange-quark-projects.vercel.app/)
+[**Ludo Multiplayer (FE)**](https://github.com/Strange-Quark-007/nextjs-redux-ludo) ▪ [**🔗 Live**](https://nextjs-redux-ludo-strange-quark-projects.vercel.app/)
 
-- A full-stack implementation of classic Ludo using Next.js/Redux - roll the dice, strategize moves, and race against opponents. Supports multiplayer.
+- Frontend implementation of classic Ludo using Next.js/Redux - roll the dice, strategize moves, and race against opponents. Supports multiplayer.
+
+[**Ludo Multiplayer (BE)**](https://github.com/Strange-Quark-007/ludo-multiplayer-server)
+
+- Real-time backend implementation for Ludo Multiplayer using WebSockets, handling live moves and multiplayer sync.
 
 [**Oracle Bot**](https://github.com/Strange-Quark-007/Oracle-Bot)
 
