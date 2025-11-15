@@ -59,7 +59,7 @@ I’m also an occasional **Minecraft modding enthusiast**.
 
   [![Mod Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2FzUBCNMSA&query=downloads&style=for-the-badge&logo=modrinth&label=Downloads&labelColor=002244&color=164A7C)](https://modrinth.com/mod/revert-zombie-reinforcement)
 
-[**Analog Redstone Lamp**](https://modrinth.com/mod/analog-redstone-lamp)
+[**Analog Redstone Lamp**](https://github.com/Strange-Quark-007/Analog-Redstone-Lamp)
 
 - Makes redstone lamps emit light levels matching the input signal strength.
 
