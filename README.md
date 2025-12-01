@@ -21,7 +21,7 @@ I’m also an occasional **Minecraft modding enthusiast**.
 
 - Lightweight web app for real-time text and file sharing across devices on a home network. Built for speed and seamless sync.
 
-[**📥 Minecraft Mod Sync**](https://github.com/Strange-Quark-007/MinecraftModSync)
+[**Minecraft Mod Sync**](https://github.com/Strange-Quark-007/MinecraftModSync)
 
 - Command-line tool to easily fetch the latest Minecraft mods from Modrinth via a JSON configuration.
 
@@ -64,6 +64,13 @@ I’m also an occasional **Minecraft modding enthusiast**.
 - Makes redstone lamps emit light levels matching the input signal strength.
 
   [![Mod Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2F4gvjX4E3&query=downloads&style=for-the-badge&logo=modrinth&label=Downloads&labelColor=002244&color=164A7C)](https://modrinth.com/mod/analog-redstone-lamp)
+
+[**Drenched Wings**](https://github.com/Strange-Quark-007/Drenched-Wings)
+
+- Blocks elytra use in liquids, applies environmental penalties, and enforces cooldowns. Fully configurable through server gamerules.
+
+  [![Mod Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2FIBRsFs5j&query=downloads&style=for-the-badge&logo=modrinth&label=Downloads&labelColor=002244&color=164A7C)](https://modrinth.com/mod/drenched-wings)
+
 
 <br/>
 
