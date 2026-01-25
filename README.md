@@ -47,6 +47,18 @@ I’m also an occasional **Minecraft modding enthusiast**.
 
 ## Minecraft Mods
 
+[**Stashlight**](https://github.com/Strange-Quark-007/Stashlight)
+
+- Client-side Fabric mod that caches containers as you open them, enabling instant world-wide item search across all dimensions and nested inventories.
+
+  <!-- [![Mod Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%22ANiKmkM&query=downloads&style=for-the-badge&logo=modrinth&label=Downloads&labelColor=002244&color=164A7C)](https://modrinth.com/mod/stashlight) -->
+
+[**Drenched Wings**](https://github.com/Strange-Quark-007/Drenched-Wings)
+
+- Blocks elytra use in liquids, applies environmental penalties, and enforces cooldowns. Fully configurable through server gamerules.
+
+  [![Mod Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2FIBRsFs5j&query=downloads&style=for-the-badge&logo=modrinth&label=Downloads&labelColor=002244&color=164A7C)](https://modrinth.com/mod/drenched-wings)
+
 [**Variable Copper Bulb Signal**](https://github.com/Strange-Quark-007/variable-copper-bulb-signal)
 
 - Changes the comparator output of copper bulbs based on oxidation level, matching light level and redstone signal.
@@ -65,11 +77,7 @@ I’m also an occasional **Minecraft modding enthusiast**.
 
   [![Mod Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2F4gvjX4E3&query=downloads&style=for-the-badge&logo=modrinth&label=Downloads&labelColor=002244&color=164A7C)](https://modrinth.com/mod/analog-redstone-lamp)
 
-[**Drenched Wings**](https://github.com/Strange-Quark-007/Drenched-Wings)
 
-- Blocks elytra use in liquids, applies environmental penalties, and enforces cooldowns. Fully configurable through server gamerules.
-
-  [![Mod Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2FIBRsFs5j&query=downloads&style=for-the-badge&logo=modrinth&label=Downloads&labelColor=002244&color=164A7C)](https://modrinth.com/mod/drenched-wings)
 
 
 <br/>
