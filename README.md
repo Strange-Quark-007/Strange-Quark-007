@@ -51,9 +51,7 @@ I’m also an occasional **Minecraft modding enthusiast**.
 
 - Client-side Fabric mod that caches containers as you open them, enabling instant world-wide item search across all dimensions and nested inventories.
 
-  [![Mod Downloads](https://img.shields.io/curseforge/dt/1447281?logo=curseforge&style=for-the-badge&labelColor=002244&color=164A7C)](https://www.curseforge.com/minecraft/mc-mods/stashlight)
-
-  <!-- [![Mod Downloads](https://img.shields.io/modrinth/dt/2ANiKmkM?logo=modrinth&style=for-the-badge&labelColor=002244&color=164A7C)](https://modrinth.com/mod/stashlight) -->
+  [![Mod Downloads](https://img.shields.io/modrinth/dt/2ANiKmkM?logo=modrinth&style=for-the-badge&labelColor=002244&color=164A7C)](https://modrinth.com/mod/stashlight) &nbsp;&nbsp;&nbsp;&nbsp; [![Mod Downloads](https://img.shields.io/curseforge/dt/1447281?logo=curseforge&style=for-the-badge&labelColor=002244&color=164A7C)](https://www.curseforge.com/minecraft/mc-mods/stashlight)
 
 [**Drenched Wings**](https://github.com/Strange-Quark-007/Drenched-Wings)
 
