@@ -81,6 +81,10 @@ I’m also an occasional **Minecraft modding enthusiast**.
 
 ## 📖 Blogs
 
+🧨 [**Gradle Sync Passed. The Build Failed. The AI Had No Idea Why.**](https://strangequark007.medium.com/gradle-sync-passed-the-build-failed-the-ai-had-no-idea-why-ed277b4f754d)
+
+- Two AIs, one stubborn Gradle build, and a confession at the end. Read the full story.
+
 💥 [**How Updating Minecraft Almost Nuked My Cloud VM**](https://medium.com/@strangequark007/how-updating-minecraft-almost-ended-up-nuking-my-cloud-vm-b5b31aa94fef)
 
 - What started as a simple Minecraft update nearly locked me out of my Oracle VM. Read the full story.
@@ -129,8 +133,6 @@ I’m also an occasional **Minecraft modding enthusiast**.
 ![Strange-Quark-007's Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Strange-Quark-007&theme=ayu-mirage&hide_border=false)
 
 ![Strange-Quark-007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Strange-Quark-007&theme=ayu-mirage&show_icons=true&hide_border=false&layout=compact)
-
-![Strange-Quark-007's Top Contributions](https://github-contributor-stats.vercel.app/api?username=Strange-Quark-007&limit=7&theme=ayu-mirage&combine_all_yearly_contributions=true)
 
 </div>
 </details>
