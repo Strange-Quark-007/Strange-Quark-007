@@ -128,11 +128,11 @@ I’m also an occasional **Minecraft modding enthusiast**.
 
 <div align="center" style="display: flex; flex-direction: column;">
 
-![Strange-Quark-007's Stats](https://github-readme-stats.vercel.app/api?username=Strange-Quark-007&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=false)
+![Strange-Quark-007's Stats](https://github-stats-extended.vercel.app/api?username=Strange-Quark-007&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=false)
 
 ![Strange-Quark-007's Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Strange-Quark-007&theme=ayu-mirage&hide_border=false)
 
-![Strange-Quark-007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Strange-Quark-007&theme=ayu-mirage&show_icons=true&hide_border=false&layout=compact)
+![Strange-Quark-007's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Strange-Quark-007&theme=ayu-mirage&show_icons=true&hide_border=false&layout=compact)
 
 </div>
 </details>
