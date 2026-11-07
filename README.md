@@ -47,17 +47,21 @@ I’m also an occasional **Minecraft modding enthusiast**.
 
 ## Minecraft Mods
 
+### Client Utilities
+
 [**Stashlight**](https://github.com/Strange-Quark-007/Stashlight)
 
 - Client-side Fabric mod that caches containers as you open them, enabling instant world-wide item search across all dimensions and nested inventories.
 
   [![Mod Downloads](https://img.shields.io/modrinth/dt/2ANiKmkM?logo=modrinth&style=for-the-badge&labelColor=002244&color=164A7C)](https://modrinth.com/mod/stashlight) &nbsp;&nbsp;&nbsp;&nbsp; [![Mod Downloads](https://img.shields.io/curseforge/dt/1447281?logo=curseforge&style=for-the-badge&labelColor=002244&color=164A7C)](https://www.curseforge.com/minecraft/mc-mods/stashlight)
 
-[**Drenched Wings**](https://github.com/Strange-Quark-007/Drenched-Wings)
+[**Mob Census**](https://github.com/Strange-Quark-007/StrangeQuark-Mods)
 
-- Blocks elytra use in liquids, applies environmental penalties, and enforces cooldowns. Fully configurable through server gamerules.
+- Displays real-time counts of nearby hostile and passive mobs on your HUD.
 
-  [![Mod Downloads](https://img.shields.io/modrinth/dt/IBRsFs5j?logo=modrinth&style=for-the-badge&labelColor=002244&color=164A7C)](https://modrinth.com/mod/drenched-wings) &nbsp;&nbsp;&nbsp;&nbsp; [![Mod Downloads](https://img.shields.io/curseforge/dt/1447270?logo=curseforge&style=for-the-badge&labelColor=002244&color=164A7C)](https://www.curseforge.com/minecraft/mc-mods/drenched-wings)
+  [![Mod Downloads](https://img.shields.io/modrinth/dt/ifAaCnHp?logo=modrinth&style=for-the-badge&labelColor=002244&color=164A7C)](https://modrinth.com/mod/mob-census) &nbsp;&nbsp;&nbsp;&nbsp; [![Mod Downloads](https://img.shields.io/curseforge/dt/1783897?logo=curseforge&style=for-the-badge&labelColor=002244&color=164A7C)](https://www.curseforge.com/minecraft/mc-mods/mob-census)
+
+### Redstone & Block Tweaks
 
 [**Variable Copper Bulb Signal**](https://github.com/Strange-Quark-007/StrangeQuark-Mods)
 
@@ -65,17 +69,25 @@ I’m also an occasional **Minecraft modding enthusiast**.
 
   [![Mod Downloads](https://img.shields.io/modrinth/dt/lhSidgPA?logo=modrinth&style=for-the-badge&labelColor=002244&color=164A7C)](https://modrinth.com/mod/variable-copper-bulb-signal) &nbsp;&nbsp;&nbsp;&nbsp; [![Mod Downloads](https://img.shields.io/curseforge/dt/1447248?logo=curseforge&style=for-the-badge&labelColor=002244&color=164A7C)](https://www.curseforge.com/minecraft/mc-mods/variable-copper-bulb-signal)
 
+[**Analog Redstone Lamp**](https://github.com/Strange-Quark-007/StrangeQuark-Mods)
+
+- Makes redstone lamps emit light levels matching the input signal strength.
+
+  [![Mod Downloads](https://img.shields.io/modrinth/dt/4gvjX4E3?logo=modrinth&style=for-the-badge&labelColor=002244&color=164A7C)](https://modrinth.com/mod/analog-redstone-lamp) &nbsp;&nbsp;&nbsp;&nbsp; [![Mod Downloads](https://img.shields.io/curseforge/dt/1447280?logo=curseforge&style=for-the-badge&labelColor=002244&color=164A7C)](https://www.curseforge.com/minecraft/mc-mods/analog-redstone-lamp)
+
+### Gameplay & Mechanics
+
 [**Revert Zombie Reinforcement**](https://github.com/Strange-Quark-007/StrangeQuark-Mods)
 
 - Restores pre-1.21.2 behaviour: zombie reinforcements always spawn as zombies, not subtypes like drowned or husks.
 
   [![Mod Downloads](https://img.shields.io/modrinth/dt/zUBCNMSA?logo=modrinth&style=for-the-badge&labelColor=002244&color=164A7C)](https://modrinth.com/mod/revert-zombie-reinforcement) &nbsp;&nbsp;&nbsp;&nbsp; [![Mod Downloads](https://img.shields.io/curseforge/dt/1447259?logo=curseforge&style=for-the-badge&labelColor=002244&color=164A7C)](https://www.curseforge.com/minecraft/mc-mods/revert-zombie-reinforcement)
 
-[**Analog Redstone Lamp**](https://github.com/Strange-Quark-007/StrangeQuark-Mods)
+[**Drenched Wings**](https://github.com/Strange-Quark-007/StrangeQuark-Mods)
 
-- Makes redstone lamps emit light levels matching the input signal strength.
+- Blocks elytra use in liquids, applies environmental penalties, and enforces cooldowns. Fully configurable through server gamerules.
 
-  [![Mod Downloads](https://img.shields.io/modrinth/dt/4gvjX4E3?logo=modrinth&style=for-the-badge&labelColor=002244&color=164A7C)](https://modrinth.com/mod/analog-redstone-lamp) &nbsp;&nbsp;&nbsp;&nbsp; [![Mod Downloads](https://img.shields.io/curseforge/dt/1447280?logo=curseforge&style=for-the-badge&labelColor=002244&color=164A7C)](https://www.curseforge.com/minecraft/mc-mods/analog-redstone-lamp)
+  [![Mod Downloads](https://img.shields.io/modrinth/dt/IBRsFs5j?logo=modrinth&style=for-the-badge&labelColor=002244&color=164A7C)](https://modrinth.com/mod/drenched-wings) &nbsp;&nbsp;&nbsp;&nbsp; [![Mod Downloads](https://img.shields.io/curseforge/dt/1447270?logo=curseforge&style=for-the-badge&labelColor=002244&color=164A7C)](https://www.curseforge.com/minecraft/mc-mods/drenched-wings)
 
 <br/>
 
