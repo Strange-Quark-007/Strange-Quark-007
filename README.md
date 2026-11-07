@@ -13,6 +13,10 @@ I’m also an occasional **Minecraft modding enthusiast**.
 
 - A modular, privacy-first developer toolbox providing curated, fast, and reliable utilities for conversions, encoding, hashing, and more - all in one unified platform.
 
+[**Minecraft Mod Monorepo**](https://github.com/Strange-Quark-007/Minecraft-Mod-Monorepo)
+
+- Gradle project template for developing and maintaining multiple Minecraft mods across Fabric and NeoForge in a single repository.
+
 [**Immich Downloader**](https://github.com/Strange-Quark-007/immich-downloader)
 
 - Minimal Node.js script to download Immich albums directly via API, bypassing the browser’s in-memory ZIP limitation.
